@@ -1,2 +1,2 @@
 # Video-to-Gif
-Converting Video to Gif with a Python program with the help of
+Converting Video to Gif with a Python program with the help of a library.
